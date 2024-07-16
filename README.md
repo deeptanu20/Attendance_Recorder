@@ -4,9 +4,10 @@
 <br/>
 📌 This approarch demonstrates a practical application of 
    <br/>
-   <br/>
  ✔ Facial Recognation Technology
+  <br/>
  ✔ Security sytems
+  <br/>
  ✔ User Authentication and Face-based application
 
 
